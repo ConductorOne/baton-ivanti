@@ -1,6 +1,6 @@
 ![Baton Logo](./docs/images/baton-logo.png)
 
-# `baton-ivanti` [![Go Reference](https://pkg.go.dev/badge/github.com/conductorone/baton-ivanti.svg)](https://pkg.go.dev/github.com/conductorone/baton-ivanti) ![main ci](https://github.com/conductorone/baton-ivanti/actions/workflows/main.yaml/badge.svg)
+# `baton-ivanti` [![Go Reference](https://pkg.go.dev/badge/github.com/conductorone/baton-ivanti.svg)](https://pkg.go.dev/github.com/conductorone/baton-ivanti) ![ci](https://github.com/conductorone/baton-ivanti/actions/workflows/ci.yaml/badge.svg)
 
 `baton-ivanti` is a connector for built using the [Baton SDK](https://github.com/conductorone/baton-sdk).
 
