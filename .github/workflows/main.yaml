@@ -14,10 +14,10 @@ jobs:
         with:
           go-version-file: go.mod
       - name: Run linters
-        uses: golangci/golangci-lint-action@v5
+        uses: golangci/golangci-lint-action@v9
         with:
-          version: latest
-          args: --timeout=3m
+          version: v2.14.0
+          args: --timeout=6m
   go-test:
     strategy:
       matrix:
